@@ -1,0 +1,4 @@
+#Tue Nov 26 08:46:45 ICT 2019
+base.0=E\:\\SEMESTER 5\\Pemrograman Mobile Praktikum\\Pertemuan 9 (Setelah UTS)\\Latihan\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
